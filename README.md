@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 - Fulltack dev<br>👨‍🎓 - 2024 genration<br>👨‍💻 - 2 years of experience<br>🏋️ - Loves to exercise<br><br><br><br><br>
+💻 - Fulltack dev<br>👨‍🎓 - 2024 generation<br>👨‍💻 - 2 years of experience<br>🏋️ - Loves to exercise<br><br><br><br><br>
 
 
 # 💻 Tech Stack:
